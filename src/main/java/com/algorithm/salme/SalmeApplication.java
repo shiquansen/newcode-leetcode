@@ -1,4 +1,4 @@
-package com.newcodeleetcode.salme;
+package com.algorithm.salme;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.newcodeleetcode.salme;
+package com.algorithm.salme;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
